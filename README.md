@@ -28,3 +28,5 @@ DesiLens transcends the realm of mere image generation. It fosters a space for:
 DesiLens represents a unique and innovative approach to AI-powered exploration. By harnessing the capabilities of advanced technologies and tailoring them to the specific domain of Indian attire, DesiLens empowers users to bridge the gap between imagination and visual representation, fostering creativity, cultural appreciation, and a deeper understanding of this captivating art form.
 
 ## DesiLens UI
+![Mobile (1)](https://github.com/Jainegi01/DesiLens/assets/68351720/13f39dc0-afcb-47df-acb3-9c8040cc40dd)
+![Mobile (2)](https://github.com/Jainegi01/DesiLens/assets/68351720/1a8be841-72d3-4e99-b598-4b5b8bc60eb3)
