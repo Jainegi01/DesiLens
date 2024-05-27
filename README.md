@@ -32,4 +32,5 @@ DesiLens represents a unique and innovative approach to AI-powered exploration. 
 **DesiLens UI**
 
 ![Mobile (1)](https://github.com/Jainegi01/DesiLens/assets/68351720/13f39dc0-afcb-47df-acb3-9c8040cc40dd)
+
 **DesiLens Responsive Mobile UI**
