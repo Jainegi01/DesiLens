@@ -1,6 +1,4 @@
 # DesiLens
-# DesiLens: Unleashing Creativity in Indian Attire Exploration through AI
-
 DesiLens is a web application that bridges the gap between imagination and visual representation, empowering users to delve into the vibrant world of Indian attire through the magic of artificial intelligence. Leveraging cutting-edge Deep Learning techniques, DesiLens transforms user-provided descriptions of garments into captivating images, fostering a unique and interactive experience.
 
 ## Key Features
@@ -28,3 +26,5 @@ DesiLens transcends the realm of mere image generation. It fosters a space for:
 - **Educational Tool:** DesiLens can serve as an interactive learning tool for students, educators, and anyone interested in exploring the diverse regional styles and intricate details of Indian garments.
 
 DesiLens represents a unique and innovative approach to AI-powered exploration. By harnessing the capabilities of advanced technologies and tailoring them to the specific domain of Indian attire, DesiLens empowers users to bridge the gap between imagination and visual representation, fostering creativity, cultural appreciation, and a deeper understanding of this captivating art form.
+
+## DesiLens UI
